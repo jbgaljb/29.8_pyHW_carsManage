@@ -1,0 +1,65 @@
+{
+    "customers": [
+      {
+        "id": "c1b8fce3-7a9f-42a9-b3b9-3d5f6b7e2b4f",
+        "full_name": "John Doe",
+        "telephone": "+1-555-1234",
+        "email": "john.doe@example.com"
+      },
+      {
+        "id": "f2d9f4a7-2d2e-48b2-94f4-ec1f8a27d9b9",
+        "full_name": "Jane Smith",
+        "telephone": "+1-555-5678",
+        "email": "jane.smith@example.com"
+      },
+      {
+        "id": "a4f5f2b8-2a6d-411e-bb7d-32e1f09a9d78",
+        "full_name": "Robert Brown",
+        "telephone": "+1-555-8765",
+        "email": "robert.brown@example.com"
+      },
+      {
+        "id": "e9c6b2f1-56c2-4b7e-bb6e-4c1a9b7f1c72",
+        "full_name": "Emily Davis",
+        "telephone": "+1-555-4321",
+        "email": "emily.davis@example.com"
+      },
+      {
+        "id": "b1d2f8a3-6d7e-4b1e-8b9f-3e5c8d2a9c3f",
+        "full_name": "Michael Wilson",
+        "telephone": "+1-555-9876",
+        "email": "michael.wilson@example.com"
+      },
+      {
+        "id": "d2f1e8b7-3a6c-4c8f-b7d9-1e7f3b6d9f4a",
+        "full_name": "Sarah Johnson",
+        "telephone": "+1-555-6543",
+        "email": "sarah.johnson@example.com"
+      },
+      {
+        "id": "f3c9e4d6-5b7e-4c9f-a7b8-4f6e3b8c9a7e",
+        "full_name": "David Martinez",
+        "telephone": "+1-555-3210",
+        "email": "david.martinez@example.com"
+      },
+      {
+        "id": "b4f7a2e3-4c6d-4f8e-b9c6-5a2f9b3e7c1a",
+        "full_name": "Laura Garcia",
+        "telephone": "+1-555-5432",
+        "email": "laura.garcia@example.com"
+      },
+      {
+        "id": "c5e8d3a4-6f7b-4a8e-a9b7-3c5f7b9e6d4a",
+        "full_name": "James Rodriguez",
+        "telephone": "+1-555-2109",
+        "email": "james.rodriguez@example.com"
+      },
+      {
+        "id": "d6f9e4b5-7a8c-4b9f-b7a6-2e8f4c6d7b9e",
+        "full_name": "Olivia White",
+        "telephone": "+1-555-8765",
+        "email": "olivia.white@example.com"
+      }
+    ]
+  }
+  

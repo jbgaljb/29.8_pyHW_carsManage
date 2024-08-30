@@ -1,0 +1,65 @@
+{
+    "cars": [
+      {
+        "customer_id": "c1b8fce3-7a9f-42a9-b3b9-3d5f6b7e2b4f",
+        "brand": "Toyota",
+        "model": "Camry",
+        "color": "Blue"
+      },
+      {
+        "customer_id": "c1b8fce3-7a9f-42a9-b3b9-3d5f6b7e2b4f",
+        "brand": "Honda",
+        "model": "Civic",
+        "color": "Black"
+      },
+      {
+        "customer_id": "c1b8fce3-7a9f-42a9-b3b9-3d5f6b7e2b4f",
+        "brand": "Ford",
+        "model": "Mustang",
+        "color": "Red"
+      },
+      {
+        "customer_id": "f2d9f4a7-2d2e-48b2-94f4-ec1f8a27d9b9",
+        "brand": "Chevrolet",
+        "model": "Malibu",
+        "color": "White"
+      },
+      {
+        "customer_id": "f2d9f4a7-2d2e-48b2-94f4-ec1f8a27d9b9",
+        "brand": "Tesla",
+        "model": "Model S",
+        "color": "Silver"
+      },
+      {
+        "customer_id": "f2d9f4a7-2d2e-48b2-94f4-ec1f8a27d9b9",
+        "brand": "BMW",
+        "model": "3 Series",
+        "color": "Black"
+      },
+      {
+        "customer_id": "a4f5f2b8-2a6d-411e-bb7d-32e1f09a9d78",
+        "brand": "Mercedes-Benz",
+        "model": "C-Class",
+        "color": "Blue"
+      },
+      {
+        "customer_id": "a4f5f2b8-2a6d-411e-bb7d-32e1f09a9d78",
+        "brand": "Audi",
+        "model": "A4",
+        "color": "Gray"
+      },
+      {
+        "customer_id": "a4f5f2b8-2a6d-411e-bb7d-32e1f09a9d78",
+        "brand": "Volkswagen",
+        "model": "Passat",
+        "color": "White"
+      },
+      {
+        "customer_id": "a4f5f2b8-2a6d-411e-bb7d-32e1f09a9d78",
+        "brand": "Nissan",
+        "model": "Altima",
+        "color": "Red"
+      }
+    ]
+  }
+  
