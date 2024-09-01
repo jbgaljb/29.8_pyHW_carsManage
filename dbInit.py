@@ -19,6 +19,7 @@ def SampleTablesInit(curCars, curCustomers):
 
     curCars.execute("""CREATE TABLE IF NOT EXISTS cars(
                     customer_id,
+                    car_id,
                     brand,
                     model,
                     color
